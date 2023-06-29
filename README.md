@@ -3,7 +3,7 @@ Build, Secure, Manage Serverless Applications at Scale on AWS
 
 Cloud Infrastructure: 
 
-<img>https://static.us-east-1.prod.workshops.aws/public/39f3bd8a-235f-4f3c-a23a-e49064f9d420/static/3-orderservice/images/order-arc-v6-cognito.png</img>
+![image](https://github.com/symbiotik007/ServerlessAppsAWS/assets/69918011/49cecc35-4df9-4af7-92a5-2c88aff34958)
 
 Our orders microservice is composed of the following resources:
 
